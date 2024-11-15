@@ -4,10 +4,10 @@ This is a web application for the Develops Today test task. The application fetc
 
 ## Technology Stack
 
-- **Next.js** (React framework) – for building server-side rendered React applications.
-- **TypeScript** – for type safety and better tooling support.
-- **Tailwind CSS** – utility-first CSS framework for fast and easy styling.
-- **ESLint & Prettier** – for maintaining code quality and consistency.
+- **Next.js**
+- **TypeScript**
+- **Tailwind CSS**
+- **ESLint & Prettier**
 
 ---
 
